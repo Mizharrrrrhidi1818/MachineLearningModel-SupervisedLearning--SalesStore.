@@ -35,8 +35,3 @@ The models were evaluated using Mean Squared Error (MSE), Mean Absolute Error (M
 **Winner:** Gradient Boosting Regressor achieved the highest R² score (0.3030), explaining ~30% of the variance in sales. 
 
 *Note: The moderate R² score indicates that while the model captures some patterns, sales are highly influenced by external factors not present in the current feature set (e.g., seasonality, promotions).*
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/sales-forecasting-ml.git
